@@ -28,3 +28,11 @@ input{
     width: 225px;
     border-radius: 10px;
 }
+.counter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 65px;
+    color: #FFA500;
+}
